@@ -1,0 +1,498 @@
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.config
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.pdb
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csprojAssemblyReference.cache
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmLogIn.resources
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.cache
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.pdb
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome.resources
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSales.resources
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerInfo.resources
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerEntry.resources
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeEntry.resources
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierEntry.resources
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmPurchase.resources
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierInfo.resources
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProductEntry.resources
+E:\Data Files\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCategoryEntry.resources
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.config
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.pdb
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csprojAssemblyReference.cache
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCategoryEntry.resources
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerEntry.resources
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerInfo.resources
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeEntry.resources
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome_Admin.resources
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmLogIn.resources
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome.resources
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProductEntry.resources
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmPurchase.resources
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSales.resources
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierEntry.resources
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierInfo.resources
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUser.resources
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.cache
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.pdb
+E:\Data Files\DotNET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmChangePassword.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.config
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.pdb
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csprojAssemblyReference.cache
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCategoryEntry.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmChangePassword.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerEntry.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerInfo.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeEntry.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome_Admin.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmLogIn.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProductEntry.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmPurchase.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSales.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierEntry.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierInfo.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUser.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.cache
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.pdb
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.manifest
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.application
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe.manifest
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.application
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.config
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.manifest
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.application
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.pdb
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csprojAssemblyReference.cache
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCategoryEntry.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmChangePassword.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerEntry.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerInfo.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeEntry.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome_Admin.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmLogIn.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProductEntry.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmPurchase.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSales.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierEntry.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierInfo.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUser.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.cache
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe.manifest
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.application
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.pdb
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\AxShockwaveFlashObjects.dll
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\ShockwaveFlashObjects.dll
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\stdole.dll
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.CopyComplete
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.dll
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.SqlServer.dll
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.xml
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.Shared.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\FlashControlV71.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\ShockwaveFlashObjects.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\stdole.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.xml
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSalesCrystalReport.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmTotalSalesReport.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.CopyComplete
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSalesCrystalReport.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmTotalSalesReport.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeWiseSales.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProducts.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployee.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmMySaleReport.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUpdateProducts.resources
+G:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUpdateUserAccount.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployee.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeWiseSales.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmMySaleReport.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProducts.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUpdateProducts.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUpdateUserAccount.resources
+E:\New folder (2)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmTotalSaleReportRPT.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csprojAssemblyReference.cache
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCategoryEntry.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmChangePassword.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerEntry.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerInfo.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployee.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeEntry.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeWiseSales.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome_Admin.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmLogIn.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmMySaleReport.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProductEntry.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProducts.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmPurchase.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSales.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSalesCrystalReport.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmStockReport.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierEntry.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierInfo.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmTotalSaleReportRPT.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmTotalSalesReport.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUpdateProducts.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUpdateUserAccount.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUser.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.cache
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.pdb
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.config
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.manifest
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.application
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.pdb
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.Shared.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.SqlServer.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\FlashControlV71.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\ShockwaveFlashObjects.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\stdole.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.xml
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.SqlServer.xml
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe.manifest
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.application
+D:\Shakil Ahmmed (ESAD-PNTL-A-42-01)\ADO .Net\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.CopyComplete
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.config
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.manifest
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.application
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.pdb
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\AxShockwaveFlashObjects.dll
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.dll
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.SqlServer.dll
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\ShockwaveFlashObjects.dll
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\stdole.dll
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.xml
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.SqlServer.xml
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csprojAssemblyReference.cache
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCategoryEntry.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmChangePassword.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerEntry.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerInfo.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployee.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeEntry.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeWiseSales.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome_Admin.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmLogIn.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmMySaleReport.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProductEntry.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProducts.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmPurchase.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSales.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSalesCrystalReport.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmStockReport.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierEntry.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierInfo.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmTotalSaleReportRPT.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmTotalSalesReport.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUpdateProducts.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUpdateUserAccount.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUser.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.cache
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe.manifest
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.application
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.CopyComplete
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe
+G:\Project\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.pdb
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csprojAssemblyReference.cache
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCategoryEntry.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmChangePassword.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerEntry.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerInfo.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployee.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeEntry.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeWiseSales.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome_Admin.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmLogIn.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmMySaleReport.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProductEntry.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProducts.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmPurchase.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSales.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierEntry.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierInfo.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmTotalSalesReport.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUpdateProducts.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUpdateUserAccount.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUser.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.cache
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.pdb
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.config
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.manifest
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.application
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.pdb
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.SqlServer.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\ShockwaveFlashObjects.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\stdole.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.xml
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.SqlServer.xml
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe.manifest
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.application
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.CopyComplete
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.Shared.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Data Files\Temp\New folder (7)\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmStockReport.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.config
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.manifest
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.application
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.pdb
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\AxShockwaveFlashObjects.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.Shared.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.SqlServer.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\ShockwaveFlashObjects.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\stdole.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.xml
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.SqlServer.xml
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csprojAssemblyReference.cache
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCategoryEntry.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmChangePassword.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerEntry.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerInfo.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployee.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeEntry.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeWiseSales.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome_Admin.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmLogIn.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmMySaleReport.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProductEntry.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProducts.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmPurchase.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSales.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmStockReport.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierEntry.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierInfo.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmTotalSalesReport.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUpdateProducts.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUpdateUserAccount.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUser.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.cache
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe.manifest
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.application
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.CopyComplete
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe
+G:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.pdb
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.config
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.manifest
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.application
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.pdb
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.dll
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.SqlServer.dll
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\FlashControlV71.dll
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\ShockwaveFlashObjects.dll
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\stdole.dll
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.xml
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.SqlServer.xml
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csprojAssemblyReference.cache
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCategoryEntry.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmChangePassword.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerEntry.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerInfo.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployee.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeEntry.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeWiseSales.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome_Admin.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmLogIn.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmMySaleReport.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProductEntry.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProducts.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmPurchase.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSales.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmStockReport.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierEntry.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierInfo.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmTotalSalesReport.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUpdateProducts.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUpdateUserAccount.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUser.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.cache
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe.manifest
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.application
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.CopyComplete
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe
+E:\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.pdb
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.config
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe.manifest
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.application
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.exe
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\PointOfSales.pdb
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\AxShockwaveFlashObjects.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.Shared.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.SqlServer.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\ShockwaveFlashObjects.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\stdole.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.xml
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\bin\Debug\EntityFramework.SqlServer.xml
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csprojAssemblyReference.cache
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCategoryEntry.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmChangePassword.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerEntry.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmCustomerInfo.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployee.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeEntry.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmEmployeeWiseSales.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome_Admin.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmLogIn.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmHome.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmMySaleReport.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProductEntry.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmProducts.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmPurchase.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSales.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmStockReport.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierEntry.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmSupplierInfo.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmTotalSalesReport.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUpdateProducts.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUpdateUserAccount.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.frmUser.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.Properties.Resources.resources
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.GenerateResource.cache
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe.manifest
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.application
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.csproj.CopyComplete
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.exe
+E:\DotNET\PROJECTS\ADO DOT NET\ESAD-CS_R42_M06_PROJECT\PointOfSales\obj\Debug\PointOfSales.pdb

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="projectPointOfSales_DB1Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'G:\NEW FOLDER (2)\ESAD-CS_R42_M06_PROJECT\POINTOFSALES\PROJECTPOINTOFSALES_DB1.MDF.dbo.vEmployeeWiseSales' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vEmployeeWiseSales">
+    <Key>
+      <PropertyRef Name="employeeID" />
+      <PropertyRef Name="firstName" />
+      <PropertyRef Name="lastName" />
+      <PropertyRef Name="designation" />
+      <PropertyRef Name="gender" />
+    </Key>
+    <Property Name="employeeID" Type="int" Nullable="false" />
+    <Property Name="firstName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="lastName" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="designation" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="gender" Type="varchar" MaxLength="6" Nullable="false" />
+    <Property Name="total Sales" Type="money" />
+  </EntityType>
+  <EntityContainer Name="projectPointOfSales_DB1ModelStoreContainer">
+    <EntitySet Name="vEmployeeWiseSales" EntityType="Self.vEmployeeWiseSales" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vEmployeeWiseSales].[employeeID] AS [employeeID], 
+    [vEmployeeWiseSales].[firstName] AS [firstName], 
+    [vEmployeeWiseSales].[lastName] AS [lastName], 
+    [vEmployeeWiseSales].[designation] AS [designation], 
+    [vEmployeeWiseSales].[gender] AS [gender], 
+    [vEmployeeWiseSales].[total Sales] AS [total Sales]
+    FROM [dbo].[vEmployeeWiseSales] AS [vEmployeeWiseSales]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
